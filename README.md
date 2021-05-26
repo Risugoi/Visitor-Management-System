@@ -1,7 +1,7 @@
 # Contents
 
-Visitors - Mobile Application for visitors
+Visitors branch - Mobile Application for visitors
 
-Stores - Website for stores
+Stores branch - Website for stores
 
-API - Connect Mobile Application to Website
+API branch - Connect Mobile Application to Website
